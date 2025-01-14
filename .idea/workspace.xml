@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="875bdda3-8c84-47c3-b22a-93ebd1a83bda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/accessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/ImportantPrograms/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/superkeyword/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/superkeyword/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/superkeyword/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/arraylist/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/arraylist/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/arraylist/searching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/arraylist/sortingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programs/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programs/primeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/string/programs/Duplicatee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/string/programs/stringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nejepjRN2FeGH2pNfMr7ky1mkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListExample.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.Duplicatee.executor": "Run",
+    "Application.Duplicates.executor": "Run",
+    "Application.Example2 (1).executor": "Run",
+    "Application.Example2 (2).executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3 (1).executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Examples.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperatorsExample.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.SuperKeyword (1).executor": "Run",
+    "Application.SuperKeyword.executor": "Run",
+    "Application.VariablesInJava.executor": "Run",
+    "Application.Votiing.executor": "Run",
+    "Application.accessModifiers.executor": "Run",
+    "Application.arrayListdata.executor": "Run",
+    "Application.arrayManipulation.executor": "Run",
+    "Application.arrayProgram.executor": "Run",
+    "Application.com.java.abstraction.Main.executor": "Run",
+    "Application.com.java.polymorphism.Main.executor": "Run",
+    "Application.constructorExample.executor": "Run",
+    "Application.encapsulation (1).executor": "Run",
+    "Application.encapsulation (2).executor": "Run",
+    "Application.encapsulation (3).executor": "Run",
+    "Application.encapsulation.executor": "Run",
+    "Application.methodOverriding (1).executor": "Run",
+    "Application.methodOverriding (2).executor": "Run",
+    "Application.methodOverriding.executor": "Run",
+    "Application.multilevelInheritance.executor": "Run",
+    "Application.overRiding (1).executor": "Run",
+    "Application.overRiding.executor": "Run",
+    "Application.primeNumber.executor": "Run",
+    "Application.searching.executor": "Run",
+    "Application.sortingArrayList.executor": "Run",
+    "Application.stringReverse.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aryan/Downloads/Car-Showroom-Management-System-main",
+    "onboarding.tips.debug.path": "C:/Users/aryan/IdeaProjects/JavaDemo/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.primeNumber">
+    <configuration name="arrayListdata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayListdata" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methodOverriding (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverriding" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methodOverriding (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverriding" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverriding" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programs.primeNumber" />
+      <module name="JavaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.primeNumber" />
+        <item itemvalue="Application.arrayListdata" />
+        <item itemvalue="Application.methodOverriding" />
+        <item itemvalue="Application.methodOverriding (2)" />
+        <item itemvalue="Application.methodOverriding (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875bdda3-8c84-47c3-b22a-93ebd1a83bda" name="Changes" comment="" />
+      <created>1729340536563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729340536563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hello.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
